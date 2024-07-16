@@ -1,11 +1,12 @@
 {
-  "name": "next-auth",
-  "version": "5.0.0-beta.19",
-  "description": "Authentication for Next.js",
+  "name": "next-auth-cross-site",
+  "version": "5.0.0-beta.20",
+  "description": "Authentication for Next.js When the client and server are on different origins ",
   "homepage": "https://nextjs.authjs.dev",
-  "repository": "https://github.com/nextauthjs/next-auth.git",
-  "author": "Balázs Orbán <info@balazsorban.com>",
+  "repository": "https://github.com/caiqinghua/next-auth.git",
+  "author": "caiqinghua <caiqinghua@gmail.com>",
   "contributors": [
+    "QC <caiqinghua@gmail.com>",
     "Iain Collins <me@iaincollins.com>",
     "Nico Domino <yo@ndo.dev>",
     "Lluis Agusti <hi@llu.lu>",
